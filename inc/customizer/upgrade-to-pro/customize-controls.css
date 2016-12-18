@@ -1,0 +1,19 @@
+#customize-controls .control-section-business-center .accordion-section-title:hover,
+#customize-controls .control-section-business-center .accordion-section-title:focus {
+	background-color: #fff;
+}
+
+.control-section-business-center .accordion-section-title .button {
+	margin-top:  -4px;
+	font-weight: 400;
+	margin-left: 8px;
+}
+
+.rtl .control-section-business-center .accordion-section-title .button {
+	margin-left:  0;
+	margin-right: 8px;
+}
+
+li#accordion-section-business-center h3.accordion-section-title {
+    background-color: #A8A8A8;
+}
